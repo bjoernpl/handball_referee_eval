@@ -4,7 +4,8 @@ Evaluate LLMs on the 405 handball referee test questions from [the DHB](https://
 
 Uses [inspect-ai](https://inspect.ai-safety-institute.org.uk/) to run the evaluations.
 
-Install with `pip install -r requirements.txt` or `pip install inspect-ai openai anthropic mistralai`.
+First clone the repo: `git clone https://github.com/bjoernpl/handball_referee_eval.git`
+and then install requirements with `pip install -r requirements.txt` or `pip install inspect-ai openai anthropic mistralai`.
 
 ## Usage
 
