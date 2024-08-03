@@ -1,3 +1,4 @@
 openai
 inspect_ai
 anthropic
+mistralai

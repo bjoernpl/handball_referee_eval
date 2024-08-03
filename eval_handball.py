@@ -86,7 +86,7 @@ def multi_choice_pattern(pattern: str, ignore_case: bool = True) -> Scorer:
 def handball_eval(use_rules: bool = False):
     # dataset
     dataset = json_dataset(
-        json_file="merged_data.jsonl", sample_fields=record_to_sample
+        json_file="handball_questions_dataset.jsonl", sample_fields=record_to_sample
     )
 
     if use_rules:
