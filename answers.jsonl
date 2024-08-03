@@ -1,0 +1,422 @@
+{"question_number": "1.1", "correct_answers": ["a"], "rule_references": ["1:1"]}
+{"question_number": "1.2", "correct_answers": ["b"], "rule_references": ["1:2"]}
+{"question_number": "1.3", "correct_answers": ["c"], "rule_references": ["1:3"]}
+{"question_number": "1.4", "correct_answers": ["b", "c", "d"], "rule_references": ["1:9"]}
+{"question_number": "2.1", "correct_answers": ["a", "d"], "rule_references": ["2:7", "12:1", "15:5b"]}
+{"question_number": "2.2", "correct_answers": ["d"], "rule_references": ["2:7"]}
+{"question_number": "2.3", "correct_answers": ["b", "d"], "rule_references": ["2:7", "12:1", "15:5b"]}
+{"question_number": "2.4", "correct_answers": ["a", "c", "e"], "rule_references": ["2:5", "4:5", "16:3a"]}
+{"question_number": "2.5", "correct_answers": ["c"], "rule_references": ["2:4", "15:5"]}
+{"question_number": "2.6", "correct_answers": ["c"], "rule_references": ["2:4", "14:1a"]}
+{"question_number": "2.7", "correct_answers": ["b"], "rule_references": ["2:4"]}
+{"question_number": "2.8", "correct_answers": ["b"], "rule_references": ["2:4"]}
+{"question_number": "2.9", "correct_answers": ["d"], "rule_references": ["2:3"]}
+{"question_number": "2.10", "correct_answers": ["c"], "rule_references": ["2:2", "comments"]}
+{"question_number": "2.11", "correct_answers": ["a", "b", "e"], "rule_references": ["2:5", "4:5", "16:3a"]}
+{"question_number": "2.12", "correct_answers": ["c", "d"], "rule_references": ["2:4", "8:10a", "14:1a", "16:6b"]}
+{"question_number": "2.13", "correct_answers": ["a", "c"], "rule_references": ["2:9 comment", "9:2"]}
+{"question_number": "2.14", "correct_answers": ["b", "c", "d"], "rule_references": ["2:9", "Clarification 3"]}
+{"question_number": "2.15", "correct_answers": ["b", "d"], "rule_references": ["2:8", "Clarification 2"]}
+{"question_number": "2.16", "correct_answers": ["b", "d"], "rule_references": ["2:7", "15:5b"]}
+{"question_number": "2.17", "correct_answers": ["b", "c"], "rule_references": ["2:2"]}
+{"question_number": "2.18", "correct_answers": ["a", "d"], "rule_references": ["2:8", "4:5"]}
+{"question_number": "2.19", "correct_answers": ["a", "c", "d"], "rule_references": ["2:2 comment", "4:11", "16:5", "16:6b", "16:10"]}
+{"question_number": "2.20", "correct_answers": ["c"], "rule_references": ["2:3", "2:4", "11:1"]}
+{"question_number": "2.21", "correct_answers": ["b", "e"], "rule_references": ["2:8", "8:7a", "16:3d"]}
+{"question_number": "2.22", "correct_answers": ["b", "c"], "rule_references": ["2:2 comment", "16:5"]}
+{"question_number": "2.23", "correct_answers": ["a", "e"], "rule_references": ["2:4", "2:5", "2:9 comment", "4:5", "9:1, paragraph 3"]}
+{"question_number": "2.24", "correct_answers": ["b"], "rule_references": ["2:2 comment", "16:3d"]}
+{"question_number": "2.25", "correct_answers": ["a", "b", "c", "d", "e"], "rule_references": ["2:8"]}
+{"question_number": "2.26", "correct_answers": ["c", "e", "f"], "rule_references": ["2:4", "8:6", "14:1a", "16:6a"]}
+{"question_number": "2.27", "correct_answers": ["d", "e"], "rule_references": ["2:5"]}
+{"question_number": "2.28", "correct_answers": ["a", "c", "d"], "rule_references": ["2:5", "13:8"]}
+{"question_number": "2.29", "correct_answers": ["b", "c", "e", "f"], "rule_references": ["2:9", "2:9 comment", "13:4a", "15:5b", "Clarification 3, paragraphe 10"]}
+{"question_number": "2.30", "correct_answers": ["b", "f"], "rule_references": ["2:7", "13:4b"]}
+{"question_number": "2.31", "correct_answers": ["b", "e"], "rule_references": ["2:7", "13:4a"]}
+{"question_number": "2.32", "correct_answers": ["b", "e"], "rule_references": ["2:7", "13:4b"]}
+{"question_number": "2.33", "correct_answers": ["a", "b", "e"], "rule_references": ["2:8", "8:8f", "15:9", "16:1b", "Clarification 2c"]}
+{"question_number": "2.34", "correct_answers": ["a", "c", "e"], "rule_references": ["2:8", "Clarification 2"]}
+{"question_number": "2.35", "correct_answers": ["a"], "rule_references": ["Clarification 3"]}
+{"question_number": "2.36", "correct_answers": ["b", "d", "e"], "rule_references": ["2:10", "Clarification 3"]}
+{"question_number": "2.37", "correct_answers": ["c"], "rule_references": ["2:10", "Clarification 3"]}
+{"question_number": "2.38", "correct_answers": ["b", "d"], "rule_references": ["6:5", "Clarification 3"]}
+{"question_number": "2.39", "correct_answers": ["d"], "rule_references": ["Clarification 3"]}
+{"question_number": "2.40", "correct_answers": ["a"], "rule_references": ["2:8", "2:10", "Clarification 3"]}
+{"question_number": "2.41", "correct_answers": ["a", "d"], "rule_references": ["2:8", "2:9 comment", "Clarification 3"]}
+{"question_number": "2.42", "correct_answers": ["a"], "rule_references": ["2:2 comment"]}
+{"question_number": "2.43", "correct_answers": ["b"], "rule_references": ["2:10", "Clarification 3"]}
+{"question_number": "2.44", "correct_answers": ["a", "d", "e", "f"], "rule_references": ["2:10", "Clarification 3"]}
+{"question_number": "2.45", "correct_answers": ["b", "d"], "rule_references": ["Clarification 3", "2:10"]}
+{"question_number": "2.46", "correct_answers": ["b", "e"], "rule_references": ["2:10", "13:4", "Clarification 3"]}
+{"question_number": "2.47", "correct_answers": ["a", "c", "f"], "rule_references": ["2:10", "6:5", "Clarification 3"]}
+{"question_number": "2.48", "correct_answers": ["b", "e"], "rule_references": ["2:10", "13:4", "Clarification 3"]}
+{"question_number": "2.49", "correct_answers": ["a", "c", "d"], "rule_references": ["2:10", "Clarification 3, in connection with 2:4"]}
+{"question_number": "2.50", "correct_answers": ["b", "c", "e"], "rule_references": ["2:10", "Clarification 3", "Rules for electronic team time-out"]}
+{"question_number": "2.51", "correct_answers": ["a", "c", "d"], "rule_references": ["2:10", "Clarification 3", "Rules for electronic team time-out"]}
+{"question_number": "2.52", "correct_answers": ["a", "c", "h", "i"], "rule_references": ["2:10", "Clarification 3", "Rules for electronic team time-out"]}
+{"question_number": "2.53", "correct_answers": ["a", "b", "d", "f"], "rule_references": ["2:9 comment", "2:10", "Clarification 3 and 4"]}
+{"question_number": "2.54", "correct_answers": ["a", "c"], "rule_references": ["2:10", "Clarification 3"]}
+{"question_number": "3.1", "correct_answers": ["d"], "rule_references": ["3:1"]}
+{"question_number": "3.2", "correct_answers": ["c"], "rule_references": ["3:2"]}
+{"question_number": "3.3", "correct_answers": ["d"], "rule_references": ["3:2"]}
+{"question_number": "3.4", "correct_answers": ["c"], "rule_references": ["3:4"]}
+{"question_number": "4.1", "correct_answers": ["c"], "rule_references": ["4:1", "4:3"]}
+{"question_number": "4.2", "correct_answers": ["a"], "rule_references": ["4:1"]}
+{"question_number": "4.3", "correct_answers": ["d", "e"], "rule_references": ["4:2"]}
+{"question_number": "4.4", "correct_answers": ["a"], "rule_references": ["4:1"]}
+{"question_number": "4.5", "correct_answers": ["a"], "rule_references": ["4:3"]}
+{"question_number": "4.6", "correct_answers": ["c", "d"], "rule_references": ["4:3", "16:1b"]}
+{"question_number": "4.7", "correct_answers": ["a", "d"], "rule_references": ["4:5", "13:3", "16:3a", "Clarification 7"]}
+{"question_number": "4.8", "correct_answers": ["c", "d"], "rule_references": ["4:3", "13:3", "13:4"]}
+{"question_number": "4.9", "correct_answers": ["b"], "rule_references": ["4:11"]}
+{"question_number": "4.10", "correct_answers": ["d", "e"], "rule_references": ["4:2", "16:3e"]}
+{"question_number": "4.11", "correct_answers": ["d"], "rule_references": ["4:4", "4:6", "16:3a"]}
+{"question_number": "4.12", "correct_answers": ["d", "e"], "rule_references": ["4:2", "4:11"]}
+{"question_number": "4.13", "correct_answers": ["a"], "rule_references": ["4:1"]}
+{"question_number": "4.14", "correct_answers": ["a", "c"], "rule_references": ["4:4", "4:5", "13:6", "16:3a"]}
+{"question_number": "4.15", "correct_answers": ["b", "d"], "rule_references": ["4:5", "13:3", "16:3a"]}
+{"question_number": "4.16", "correct_answers": ["b", "d"], "rule_references": ["4:5", "13:3", "16:3a"]}
+{"question_number": "4.17", "correct_answers": ["a", "c"], "rule_references": ["4:5", "13:3", "16:3a"]}
+{"question_number": "4.18", "correct_answers": ["b"], "rule_references": ["4:1", "4:8"]}
+{"question_number": "4.19", "correct_answers": ["c", "e"], "rule_references": ["4:5", "13:3", "16:3a"]}
+{"question_number": "4.20", "correct_answers": ["b", "d"], "rule_references": ["4:1", "4:5", "13:3", "16:3a"]}
+{"question_number": "4.21", "correct_answers": ["b"], "rule_references": ["4:5", "13:2", "14:2", "16:3a"]}
+{"question_number": "4.22", "correct_answers": ["a", "c", "e"], "rule_references": ["4:6", "13:1a", "16:3a"]}
+{"question_number": "4.23", "correct_answers": ["a", "c"], "rule_references": ["4:6", "13:1a", "16:3a"]}
+{"question_number": "4.24", "correct_answers": ["c"], "rule_references": ["4:6", "16:3a"]}
+{"question_number": "4.25", "correct_answers": ["c", "d"], "rule_references": ["4:1", "4:5", "13:1", "16:3a"]}
+{"question_number": "4.26", "correct_answers": ["a", "e"], "rule_references": ["4:10", "8:7", "16:1b"]}
+{"question_number": "4.27", "correct_answers": ["a", "d"], "rule_references": ["4:5", "14:1a", "16:3a", "clarification 7"]}
+{"question_number": "4.28", "correct_answers": ["a"], "rule_references": ["4:4 comment"]}
+{"question_number": "4.29", "correct_answers": ["c"], "rule_references": ["4:2", "8:7", "16:3e"]}
+{"question_number": "4.30", "correct_answers": ["a", "b", "f"], "rule_references": ["4:11", "8:6b", "13:3", "16:6a", "16:8"]}
+{"question_number": "4.31", "correct_answers": ["a", "b", "d"], "rule_references": ["4:2", "13:1"]}
+{"question_number": "4.32", "correct_answers": ["a"], "rule_references": ["4:7", "4:8", "4:9"]}
+{"question_number": "4.33", "correct_answers": ["a", "d"], "rule_references": ["4:6", "16:3d"]}
+{"question_number": "4.34", "correct_answers": ["b", "d", "e", "f"], "rule_references": ["4:2", "4:3"]}
+{"question_number": "4.35", "correct_answers": ["c"], "rule_references": ["4:11"]}
+{"question_number": "4.36", "correct_answers": ["d"], "rule_references": ["4:2", "16:3e"]}
+{"question_number": "4.37", "correct_answers": ["b", "c"], "rule_references": ["4:4", "4:11"]}
+{"question_number": "4.38", "correct_answers": ["b"], "rule_references": ["4:9", "Regulations on Protective Equipment and Accessories"]}
+{"question_number": "4.39", "correct_answers": ["b", "c"], "rule_references": ["4:6"]}
+{"question_number": "4.40", "correct_answers": ["b", "c", "e", "f"], "rule_references": ["4:3", "9:1", "9:2"]}
+{"question_number": "4.41", "correct_answers": ["b", "d", "e", "f"], "rule_references": ["4:11", "Clarification 8"]}
+{"question_number": "4.42", "correct_answers": ["b"], "rule_references": ["4:11", "Clarification 8"]}
+{"question_number": "4.43", "correct_answers": ["b", "c", "d", "f", "h"], "rule_references": ["2:8", "4:5", "4:11", "13:2", "14:1", "Clarification 8"]}
+{"question_number": "4.44", "correct_answers": ["c"], "rule_references": ["4:11", "Clarification 8"]}
+{"question_number": "4.45", "correct_answers": ["b", "c", "d", "f"], "rule_references": ["2:8", "4:11", "8:4", "16:3c", "Clarification 8"]}
+{"question_number": "4.46", "correct_answers": ["b", "c", "e", "f"], "rule_references": ["2:8", "4.11", "8.4", "16.3c", "Clarification 8"]}
+{"question_number": "4.47", "correct_answers": ["b", "c"], "rule_references": ["4:11", "8-7", "16:1b", "Clarification 8"]}
+{"question_number": "4.48", "correct_answers": ["a"], "rule_references": ["4:11", "Clarification 8"]}
+{"question_number": "4.49", "correct_answers": ["a", "c"], "rule_references": ["4:11", "Clarification 8"]}
+{"question_number": "4.50", "correct_answers": ["c"], "rule_references": ["4:11 third paragraph"]}
+{"question_number": "4.51", "correct_answers": ["c"], "rule_references": ["4:11", "Clarification 8"]}
+{"question_number": "4.52", "correct_answers": ["b"], "rule_references": ["4:11", "Clarification 8"]}
+{"question_number": "4.53", "correct_answers": ["b"], "rule_references": ["4:11", "Clarification 8"]}
+{"question_number": "4.54", "correct_answers": ["b"], "rule_references": ["4:11", "Clarification 8"]}
+{"question_number": "4.55", "correct_answers": ["b"], "rule_references": ["4:11", "Clarification 8"]}
+{"question_number": "4.56", "correct_answers": ["b"], "rule_references": ["4:11", "Clarification 8"]}
+{"question_number": "4.57", "correct_answers": ["c", "e", "g"], "rule_references": ["4:9 Guidelines", "Regulations on Protective Equipment and Accessories"]}
+{"question_number": "4.58", "correct_answers": ["a", "d"], "rule_references": ["4:7", "4:9", "Guidelines"]}
+{"question_number": "4.59", "correct_answers": ["a", "d", "e"], "rule_references": ["4:3", "4:7", "4:8", "New Guideline"]}
+{"question_number": "4.60", "correct_answers": ["a", "b", "d"], "rule_references": ["2:8", "4:5", "13:1a"]}
+{"question_number": "4.61", "correct_answers": ["a", "c", "d"], "rule_references": ["2:8", "4:5", "14:1"]}
+{"question_number": "5.1", "correct_answers": ["c"], "rule_references": ["1:3", "5:6", "12:1", "12:2", "15:5b"]}
+{"question_number": "5.2", "correct_answers": ["c"], "rule_references": ["1:3", "5:3", "5:9", "6:2b", "13:1a"]}
+{"question_number": "5.3", "correct_answers": ["c"], "rule_references": ["5:6"]}
+{"question_number": "5.4", "correct_answers": ["b"], "rule_references": ["5:10", "13:1a"]}
+{"question_number": "5.5", "correct_answers": ["b"], "rule_references": ["5:10", "13:1a"]}
+{"question_number": "5.6", "correct_answers": ["c"], "rule_references": ["5:10", "13:1a"]}
+{"question_number": "5.7", "correct_answers": ["a"], "rule_references": ["5:10", "12:1"]}
+{"question_number": "5.8", "correct_answers": ["d"], "rule_references": ["5:3", "5:6", "15:7"]}
+{"question_number": "5.9", "correct_answers": ["d"], "rule_references": ["5:9", "6:1", "13:1a"]}
+{"question_number": "5.10", "correct_answers": ["a"], "rule_references": ["5:3"]}
+{"question_number": "5.11", "correct_answers": ["a"], "rule_references": ["5:3", "15:1", "note"]}
+{"question_number": "5.12", "correct_answers": ["c"], "rule_references": ["5:9", "13:1a"]}
+{"question_number": "5.13", "correct_answers": ["a"], "rule_references": ["5:7", "5:8"]}
+{"question_number": "6.1", "correct_answers": ["d"], "rule_references": ["1:3", "6:5", "12:1"]}
+{"question_number": "6.2", "correct_answers": ["b"], "rule_references": ["6:5", "12:1"]}
+{"question_number": "6.3", "correct_answers": ["a"], "rule_references": ["6:5"]}
+{"question_number": "6.4", "correct_answers": ["a"], "rule_references": ["6:5"]}
+{"question_number": "6.5", "correct_answers": ["d"], "rule_references": ["6:7b", "13:1a"]}
+{"question_number": "6.6", "correct_answers": ["c"], "rule_references": ["6:7b", "13:1a"]}
+{"question_number": "6.7", "correct_answers": ["c"], "rule_references": ["6:7b", "13:1a"]}
+{"question_number": "6.8", "correct_answers": ["a", "d"], "rule_references": ["6:2c", "8:7f", "14:1a", "16:1b"]}
+{"question_number": "6.9", "correct_answers": ["b"], "rule_references": ["6:2c", "14:1a", "Clarification 6a"]}
+{"question_number": "6.10", "correct_answers": ["c"], "rule_references": ["5:3", "5:6", "6:7b"]}
+{"question_number": "6.11", "correct_answers": ["c"], "rule_references": ["5:3", "5:6", "6:7b"]}
+{"question_number": "6.12", "correct_answers": ["b"], "rule_references": ["6:2a", "12:1"]}
+{"question_number": "6.13", "correct_answers": ["a", "b"], "rule_references": ["4:5", "6:5, second paragraph", "13:3", "16:3a"]}
+{"question_number": "6.14", "correct_answers": ["a", "b", "c"], "rule_references": ["6:2a", "12:1"]}
+{"question_number": "6.15", "correct_answers": ["b"], "rule_references": ["6:7b"]}
+{"question_number": "6.16", "correct_answers": ["b", "c", "d"], "rule_references": ["2:8a", "4:5", "6:4", "12:1", "13:3"]}
+{"question_number": "6.17", "correct_answers": ["b"], "rule_references": ["5:3", "6:7c"]}
+{"question_number": "6.18", "correct_answers": ["c"], "rule_references": ["6:5"]}
+{"question_number": "6.19", "correct_answers": ["b", "c"], "rule_references": ["4:5", "6:5, first paragraph", "16:3a"]}
+{"question_number": "6.20", "correct_answers": ["b"], "rule_references": ["6:7b"]}
+{"question_number": "6.21", "correct_answers": ["a"], "rule_references": ["6:1", "1:3"]}
+{"question_number": "6.22", "correct_answers": ["b"], "rule_references": ["6:2a"]}
+{"question_number": "6.23", "correct_answers": ["d"], "rule_references": ["6:3", "11:1"]}
+{"question_number": "6.24", "correct_answers": ["b", "c"], "rule_references": ["6:2", "8:8h", "14:1a", "Clarification"]}
+{"question_number": "7.1", "correct_answers": ["b"], "rule_references": ["7:10", "11:1"]}
+{"question_number": "7.2", "correct_answers": ["a"], "rule_references": ["7:1"]}
+{"question_number": "7.3", "correct_answers": ["b"], "rule_references": ["7:3a"]}
+{"question_number": "7.4", "correct_answers": ["a"], "rule_references": ["7:3d"]}
+{"question_number": "7.5", "correct_answers": ["b"], "rule_references": ["7:3"]}
+{"question_number": "7.6", "correct_answers": ["b"], "rule_references": ["7:3", "7:4", "7:7"]}
+{"question_number": "7.7", "correct_answers": ["c"], "rule_references": ["7:4b"]}
+{"question_number": "7.8", "correct_answers": ["b"], "rule_references": ["7:6"]}
+{"question_number": "7.9", "correct_answers": ["b"], "rule_references": ["7:7", "13:1a"]}
+{"question_number": "7.10", "correct_answers": ["b"], "rule_references": ["7:7", "13:1a"]}
+{"question_number": "7.11", "correct_answers": ["c"], "rule_references": ["7:7", "13:1a"]}
+{"question_number": "7.12", "correct_answers": ["b"], "rule_references": ["7:9", "11:1"]}
+{"question_number": "7.13", "correct_answers": ["d"], "rule_references": ["7:9", "15:2"]}
+{"question_number": "7.14", "correct_answers": ["a"], "rule_references": ["7:4", "8:1a"]}
+{"question_number": "7.15", "correct_answers": ["c"], "rule_references": ["7:10", "8:1c", "13:1a"]}
+{"question_number": "7.16", "correct_answers": ["a"], "rule_references": ["7:1"]}
+{"question_number": "7.17", "correct_answers": ["b"], "rule_references": ["7:10"]}
+{"question_number": "7.18", "correct_answers": ["b"], "rule_references": ["7:12"]}
+{"question_number": "7.19", "correct_answers": ["b"], "rule_references": ["7:1", "7:6"]}
+{"question_number": "7.20", "correct_answers": ["b"], "rule_references": ["7:8"]}
+{"question_number": "7.21", "correct_answers": ["a"], "rule_references": ["7:1", "7:3 comment"]}
+{"question_number": "7.22", "correct_answers": ["b"], "rule_references": ["7:11", "Clarification 4"]}
+{"question_number": "7.23", "correct_answers": ["a"], "rule_references": ["7:11", "7:12", "Clarification 4.B.2"]}
+{"question_number": "7.24", "correct_answers": ["a", "b"], "rule_references": ["Clarification 4.C"]}
+{"question_number": "7.25", "correct_answers": ["b", "c", "d"], "rule_references": ["Clarification 4"]}
+{"question_number": "7.26", "correct_answers": ["d"], "rule_references": ["7:11", "7:12", "Clarification 4.B.1"]}
+{"question_number": "7.27", "correct_answers": ["a", "d", "e"], "rule_references": ["Clarification 4"]}
+{"question_number": "7.28", "correct_answers": ["b", "c", "d", "e"], "rule_references": ["7:11", "Clarification 4"]}
+{"question_number": "7.29", "correct_answers": ["a"], "rule_references": ["7:11-12", "Clarification 4", "Appendix 3 (Training support \"Passive play\")"]}
+{"question_number": "7.30", "correct_answers": ["b"], "rule_references": ["7:11-12", "Clarification 4", "Appendix 3 (Training support \"Passive play\")"]}
+{"question_number": "7.31", "correct_answers": ["c"], "rule_references": ["7:11-12", "Clarification 4"]}
+{"question_number": "7.32", "correct_answers": ["d"], "rule_references": ["7:11-12", "Clarification 3", "Appendix 3 (Training support \"Passive play\")"]}
+{"question_number": "7.33", "correct_answers": ["b", "c"], "rule_references": ["7:11-12", "Clarification 3", "Appendix 3 (Training support \"Passive play\")"]}
+{"question_number": "7.34", "correct_answers": ["c"], "rule_references": ["7:11", "7:12", "Clarification 4d", "New Guideline"]}
+{"question_number": "7.35", "correct_answers": ["a", "d"], "rule_references": ["7:11", "7:12", "Clarification 4", "Appendix 3 (Training Support \"Passive play\")"]}
+{"question_number": "7:36", "correct_answers": ["b", "d", "f"], "rule_references": ["2:8", "7:11", "7:12", "Clarification 4", "Appendix 3 (Training Support \"Passive Play\")"]}
+{"question_number": "8.1", "correct_answers": ["c", "e"], "rule_references": ["4:6", "8:10b", "14:1a", "16:6b"]}
+{"question_number": "8.2", "correct_answers": ["a", "d", "e"], "rule_references": ["4:3", "8:10b", "14:1a", "16:1b", "16:6a", "16:6b"]}
+{"question_number": "8.3", "correct_answers": ["a", "c"], "rule_references": ["8:7a", "16:3e", "16:10"]}
+{"question_number": "8.4", "correct_answers": ["a", "c", "f"], "rule_references": ["4:5", "8:10a", "16:3a", "16:6d", "16:8", "16:9c"]}
+{"question_number": "8.5", "correct_answers": ["d"], "rule_references": ["4:6", "8:10b", "14:1a", "16:6b", "16:8"]}
+{"question_number": "8.6", "correct_answers": ["c"], "rule_references": ["8:1c"]}
+{"question_number": "8.7", "correct_answers": ["b", "e"], "rule_references": ["8:2a", "14:1a"]}
+{"question_number": "8.8", "correct_answers": ["b", "c"], "rule_references": ["8:5 comment", "14:1a", "16:6a", "Clarification 6b"]}
+{"question_number": "8.9", "correct_answers": ["a", "b"], "rule_references": ["8:3", "13:1b", "16:3b"]}
+{"question_number": "8.10", "correct_answers": ["b", "d"], "rule_references": ["8:5", "14:1a", "16:6a"]}
+{"question_number": "8.11", "correct_answers": ["a", "c"], "rule_references": ["8:3", "13:1b", "16:1a"]}
+{"question_number": "8.12", "correct_answers": ["b", "e"], "rule_references": ["8:4b", "14:1a", "16:3c"]}
+{"question_number": "8.13", "correct_answers": ["a", "b"], "rule_references": ["8:5", "8:6", "16:6a"]}
+{"question_number": "8.14", "correct_answers": ["a", "c", "e", "f"], "rule_references": ["2:8a", "8:10b", "14:1a", "16:6b"]}
+{"question_number": "8.15", "correct_answers": ["b", "e", "f"], "rule_references": ["8:10b", "14:1a", "16:6b"]}
+{"question_number": "8.16", "correct_answers": ["b", "c"], "rule_references": ["8:10a", "8:10b", "16:6b"]}
+{"question_number": "8.17", "correct_answers": ["c", "d"], "rule_references": ["8:10a", "16:6b", "16:8", "16:11b"]}
+{"question_number": "8.18", "correct_answers": ["c", "d"], "rule_references": ["8:7a", "16:1b"]}
+{"question_number": "8.19", "correct_answers": ["b", "d"], "rule_references": ["8:10a", "16:6b"]}
+{"question_number": "8.20", "correct_answers": ["a"], "rule_references": ["8:3", "16:3b"]}
+{"question_number": "8.21", "correct_answers": ["a"], "rule_references": ["4:6", "8:8b", "8:8e", "8:9", "16:6b"]}
+{"question_number": "8.22", "correct_answers": ["b", "d"], "rule_references": ["8:5", "13:1b", "16:6a", "Clarification 6"]}
+{"question_number": "8.23", "correct_answers": ["b", "e"], "rule_references": ["8:10", "16:6b"]}
+{"question_number": "8.24", "correct_answers": ["d"], "rule_references": ["8:10a", "16:8"]}
+{"question_number": "8.25", "correct_answers": ["d"], "rule_references": ["8:6b", "16:6a"]}
+{"question_number": "8.26", "correct_answers": ["c"], "rule_references": ["8:10a", "16:6b", "16:11b", "17:10"]}
+{"question_number": "8.27", "correct_answers": ["d"], "rule_references": ["8:10a", "16:6a", "16:11b", "17:10"]}
+{"question_number": "8.28", "correct_answers": ["a", "c"], "rule_references": ["8:5", "13:1b", "16:6a"]}
+{"question_number": "8.29", "correct_answers": ["b", "c", "d", "e"], "rule_references": ["8:5", "8:9a", "8:9d", "16:6a", "16:6b"]}
+{"question_number": "8.30", "correct_answers": ["a", "b", "d"], "rule_references": ["2:8a", "4:11", "8:6a", "16:6a", "17:2", "17:10"]}
+{"question_number": "8.31", "correct_answers": ["a", "b", "d"], "rule_references": ["8:3", "8:7c", "8:8b", "14:10", "16:1b", "16:3c"]}
+{"question_number": "8.32", "correct_answers": ["c", "d", "e"], "rule_references": ["8:7"]}
+{"question_number": "8.33", "correct_answers": ["a", "b", "d"], "rule_references": ["8:5", "8:6", "8:9f"]}
+{"question_number": "8.34", "correct_answers": ["b", "c"], "rule_references": ["8:5", "13:1b", "15:9", "16:6a"]}
+{"question_number": "8.35", "correct_answers": ["a", "c", "e", "f"], "rule_references": ["2:8a", "8:7a", "16:3d"]}
+{"question_number": "8.36", "correct_answers": ["c", "f"], "rule_references": ["8:5 comment", "14:1a", "16:6a"]}
+{"question_number": "8.37", "correct_answers": ["d", "f"], "rule_references": ["8:10", "16:6b"]}
+{"question_number": "8.38", "correct_answers": ["c", "d"], "rule_references": ["2:8", "8:7a", "8:10a", "16:6b", "16:8", "Substitution Area Regulations 5"]}
+{"question_number": "8.39", "correct_answers": ["b", "d", "e"], "rule_references": ["8:7c", "12:2", "15:4", "15:9", "16:1b", "16:3d"]}
+{"question_number": "8.40", "correct_answers": ["a", "c"], "rule_references": ["6:5", "8:2", "8:3", "12:1"]}
+{"question_number": "8.41", "correct_answers": ["c"], "rule_references": ["8:8a", "16:3f"]}
+{"question_number": "8.42", "correct_answers": ["c"], "rule_references": ["8:9", "16:6b"]}
+{"question_number": "8.43", "correct_answers": ["a", "b", "d"], "rule_references": ["2:8", "8:4b", "9:1", "10:2", "16:3c"]}
+{"question_number": "8.44", "correct_answers": ["c", "e"], "rule_references": ["8:5 comment", "14:1a", "16:6a", "Clarification 6c"]}
+{"question_number": "8.45", "correct_answers": ["a", "b", "e", "f"], "rule_references": ["8:9a", "8:9d", "8:10a"]}
+{"question_number": "8.46", "correct_answers": ["c", "e"], "rule_references": ["8:5 Comment 2nd paragraph", "14:1", "14:2", "Guidelines"]}
+{"question_number": "8.47", "correct_answers": ["c"], "rule_references": ["4:1", "8:1", "8:2", "14:1a", "Clarification 6c"]}
+{"question_number": "8.48", "correct_answers": ["c", "d", "e"], "rule_references": ["2:8", "4:1", "8:4b", "14:1a", "16:3c", "Clarification 6c"]}
+{"question_number": "8.49", "correct_answers": ["b"], "rule_references": ["4:1", "8:2", "13:1b"]}
+{"question_number": "8.50", "correct_answers": ["a", "b", "e"], "rule_references": ["2:8", "4:1", "4:4-6", "12:1 (II)"]}
+{"question_number": "8.51", "correct_answers": ["c", "e"], "rule_references": ["4:1", "8:8h", "14:1a", "16:1b", "16:3d"]}
+{"question_number": "8.52", "correct_answers": ["a", "c"], "rule_references": ["2:8", "4:1", "12:1", "12:2"]}
+{"question_number": "8.53", "correct_answers": ["a", "c"], "rule_references": ["4:1", "4:4-5", "13:1b"]}
+{"question_number": "8.54", "correct_answers": ["a", "d"], "rule_references": ["4:1", "4:4-5", "14:1"]}
+{"question_number": "8.55", "correct_answers": ["a", "d"], "rule_references": ["4:1"]}
+{"question_number": "8.56", "correct_answers": ["b", "d"], "rule_references": ["8:4b", "13:1b", "16:3c"]}
+{"question_number": "8.57", "correct_answers": ["c", "e"], "rule_references": ["2:4", "8:5a", "8:11b", "16:6a"]}
+{"question_number": "8.58", "correct_answers": ["a", "d", "e"], "rule_references": ["2:8", "8:5a", "13:1b", "16:6a"]}
+{"question_number": "8.59", "correct_answers": ["a", "c", "e"], "rule_references": ["2:8", "8:11a"]}
+{"question_number": "8.60", "correct_answers": ["a", "c"], "rule_references": ["2:8", "8:8f", "8:11a", "15:7", "15:9", "16:3d"]}
+{"question_number": "8.61", "correct_answers": ["b", "d"], "rule_references": ["2:8", "8:11a"]}
+{"question_number": "8.62", "correct_answers": ["b", "d", "f"], "rule_references": ["2:8", "8:11a"]}
+{"question_number": "8.63", "correct_answers": ["a", "b", "f"], "rule_references": ["2:8", "8:9", "10:2"]}
+{"question_number": "8.64", "correct_answers": ["b", "d"], "rule_references": ["2:4", "2:5", "2:6", "15:2", "15:4", "15:9", "16:3"]}
+{"question_number": "8.65", "correct_answers": ["b", "c", "d"], "rule_references": ["2:8", "8:5 comments and Guideline", "14:1a"]}
+{"question_number": "8.66", "correct_answers": ["b", "d"], "rule_references": ["8:11a and Guideline"]}
+{"question_number": "8.67", "correct_answers": ["a"], "rule_references": ["2:3", "2:4", "Guideline 8:11a"]}
+{"question_number": "8.68", "correct_answers": ["a", "d", "f"], "rule_references": ["2:8", "8:11a", "New Guideline"]}
+{"question_number": "8.69", "correct_answers": ["a", "d", "f"], "rule_references": ["2:8", "8:11a", "New Guideline"]}
+{"question_number": "8.70", "correct_answers": ["a", "c", "e"], "rule_references": ["2:8", "8:11a", "New Guideline"]}
+{"question_number": "8.71", "correct_answers": ["b", "e", "f"], "rule_references": ["2:8", "8:5", "8:11b", "14:2", "New Guideline"]}
+{"question_number": "8.72", "correct_answers": ["b", "c", "f"], "rule_references": ["2:8", "8:5", "8:11b", "14:2", "New Guideline"]}
+{"question_number": "8.73", "correct_answers": ["b", "c", "e", "f"], "rule_references": ["2:8", "8:11b", "Guidelines", "14:2"]}
+{"question_number": "8.74", "correct_answers": ["a", "e", "h"], "rule_references": ["2:8", "4:11", "13:1a", "Clarification 8"]}
+{"question_number": "8.75", "correct_answers": ["b", "d", "e"], "rule_references": ["2:8", "8:8", "13:1a"]}
+{"question_number": "8.76", "correct_answers": ["a", "d", "f"], "rule_references": ["2:8", "8:4", "8:8d", "13:2"]}
+{"question_number": "8.77", "correct_answers": ["b", "e", "f", "g"], "rule_references": ["2:8", "8:4", "8:8d", "13:1a"]}
+{"question_number": "8.78", "correct_answers": ["c"], "rule_references": ["2:8", "4:11", "Clarification 8", "8:8d"]}
+{"question_number": "8.79", "correct_answers": ["a", "b", "c", "f"], "rule_references": ["2:8", "4:11", "Clarification 8", "13:1a"]}
+{"question_number": "9.1", "correct_answers": ["b", "d"], "rule_references": ["7:8", "8:8e", "9:1", "13:2", "16:1b"]}
+{"question_number": "9.2", "correct_answers": ["b"], "rule_references": ["7:8", "9:1", "13:2"]}
+{"question_number": "9.3", "correct_answers": ["d"], "rule_references": ["6:3b", "9:1", "13:2"]}
+{"question_number": "9.4", "correct_answers": ["c"], "rule_references": ["6:4", "9:1", "12:1"]}
+{"question_number": "9.5", "correct_answers": ["c"], "rule_references": ["9:1", "14:2"]}
+{"question_number": "9.6", "correct_answers": ["b", "d"], "rule_references": ["9:1", "comment"]}
+{"question_number": "9.7", "correct_answers": ["c", "e"], "rule_references": ["9:1", "comment"]}
+{"question_number": "9.8", "correct_answers": ["b", "c"], "rule_references": ["4:6", "9:1", "9:2", "16:3a"]}
+{"question_number": "9.9", "correct_answers": ["a"], "rule_references": ["9:1", "15:2"]}
+{"question_number": "9.10", "correct_answers": ["a", "c"], "rule_references": ["7:8", "8:8e", "9:1", "16:1b"]}
+{"question_number": "10.1", "correct_answers": ["a"], "rule_references": ["10:1"]}
+{"question_number": "10.2", "correct_answers": ["b"], "rule_references": ["10:1"]}
+{"question_number": "10.3", "correct_answers": ["c"], "rule_references": ["10:3a"]}
+{"question_number": "10.4", "correct_answers": ["a"], "rule_references": ["10:3a", "15:1", "15:6"]}
+{"question_number": "10.5", "correct_answers": ["c"], "rule_references": ["9:1", "10:4", "15:2"]}
+{"question_number": "10.6", "correct_answers": ["b", "d", "e"], "rule_references": ["10:3a", "15:2", "15:3", "15:4"]}
+{"question_number": "10.7", "correct_answers": ["b"], "rule_references": ["10:3a", "15:7"]}
+{"question_number": "10.8", "correct_answers": ["a"], "rule_references": ["10:3b", "15:5b"]}
+{"question_number": "10.9", "correct_answers": ["b"], "rule_references": ["10:3b"]}
+{"question_number": "10.10", "correct_answers": ["a", "f"], "rule_references": ["8:8", "10:3b", "13:1a"]}
+{"question_number": "10.11", "correct_answers": ["a", "b", "c", "d"], "rule_references": ["10.3b"]}
+{"question_number": "10.12", "correct_answers": ["d", "e", "g"], "rule_references": ["2:8", "8:8f", "10:3b", "14:1a", "Clarification 6"]}
+{"question_number": "10.13", "correct_answers": ["a", "b", "d"], "rule_references": ["10:3b", "15:2"]}
+{"question_number": "10.14", "correct_answers": ["a", "d"], "rule_references": ["10:3b"]}
+{"question_number": "11.1", "correct_answers": ["d"], "rule_references": ["11:4", "15:1", "15:5"]}
+{"question_number": "11.2", "correct_answers": ["a"], "rule_references": ["11:4", "15:2"]}
+{"question_number": "11.3", "correct_answers": ["a"], "rule_references": ["11:4", "15:1", "15:5"]}
+{"question_number": "11.4", "correct_answers": ["b"], "rule_references": ["11:1"]}
+{"question_number": "11.5", "correct_answers": ["b", "c", "d"], "rule_references": ["10:3b", "11:5", "12:2", "13:8", "15:4"]}
+{"question_number": "11.6", "correct_answers": ["a"], "rule_references": ["11:1"]}
+{"question_number": "12.1", "correct_answers": ["c"], "rule_references": ["1:3", "12:2"]}
+{"question_number": "12.2", "correct_answers": ["b", "c"], "rule_references": ["1:3", "12:1", "14:9"]}
+{"question_number": "12.3", "correct_answers": ["c"], "rule_references": ["12:1"]}
+{"question_number": "12.4", "correct_answers": ["d"], "rule_references": ["12:2", "15:5b"]}
+{"question_number": "12.5", "correct_answers": ["b"], "rule_references": ["12:2"]}
+{"question_number": "12.6", "correct_answers": ["b"], "rule_references": ["12:2"]}
+{"question_number": "12.7", "correct_answers": ["a"], "rule_references": ["12:1 – Hand signals"]}
+{"question_number": "12.8", "correct_answers": ["a"], "rule_references": ["12:2"]}
+{"question_number": "12.9", "correct_answers": ["c", "d"], "rule_references": ["12:2"]}
+{"question_number": "12.10", "correct_answers": ["a"], "rule_references": ["12:2"]}
+{"question_number": "12.11", "correct_answers": ["d"], "rule_references": ["9:1", "12:2", "15:2"]}
+{"question_number": "13.1", "correct_answers": ["a", "b", "e"], "rule_references": ["8:8b", "13:5", "15:5b", "16:3f"]}
+{"question_number": "13.2", "correct_answers": ["b", "c", "d"], "rule_references": ["2:8a", "8:3", "13:2", "16:3b"]}
+{"question_number": "13.3", "correct_answers": ["b", "d"], "rule_references": ["8:8b", "13:5", "13:6 comment", "16:3f"]}
+{"question_number": "13.4", "correct_answers": ["a", "d"], "rule_references": ["8:8b", "13:5", "16:3f"]}
+{"question_number": "13.5", "correct_answers": ["a"], "rule_references": ["8:7a", "13:1a", "13:6", "16:1b"]}
+{"question_number": "13.6", "correct_answers": ["a"], "rule_references": ["13:4a"]}
+{"question_number": "13.7", "correct_answers": ["c", "d"], "rule_references": ["4:11", "8:8d", "13:4b", "Clarification 2 and 8"]}
+{"question_number": "13.8", "correct_answers": ["c"], "rule_references": ["8:8b", "13:5", "13:6 comment", "16:3f"]}
+{"question_number": "13.9", "correct_answers": ["b", "c"], "rule_references": ["4:5", "13:3", "16:3a"]}
+{"question_number": "13.10", "correct_answers": ["b", "c", "d"], "rule_references": ["7:11", "13:6", "13:6 comment"]}
+{"question_number": "13.11", "correct_answers": ["b", "d"], "rule_references": ["13:4a"]}
+{"question_number": "13.12", "correct_answers": ["a", "c"], "rule_references": ["8:7", "13:6", "Substitution Area Regulations 5+6"]}
+{"question_number": "13.13", "correct_answers": ["b"], "rule_references": ["13:7", "15:1", "15:5b"]}
+{"question_number": "13.14", "correct_answers": ["b", "c", "d"], "rule_references": ["13:4"]}
+{"question_number": "13.15", "correct_answers": ["a", "c", "e"], "rule_references": ["8:3", "8:4", "13:3"]}
+{"question_number": "14.1", "correct_answers": ["b"], "rule_references": ["2:8a", "8:10a", "14:1c", "16:6b"]}
+{"question_number": "14.2", "correct_answers": ["c", "e"], "rule_references": ["8:8h", "14:1a", "15:2"]}
+{"question_number": "14.3", "correct_answers": ["c"], "rule_references": ["14:6"]}
+{"question_number": "14.4", "correct_answers": ["b", "d"], "rule_references": ["8:3c", "14:1a", "16:1a"]}
+{"question_number": "14.5", "correct_answers": ["c"], "rule_references": ["13:1a", "14:7", "15:7"]}
+{"question_number": "14.6", "correct_answers": ["c"], "rule_references": ["14:8"]}
+{"question_number": "14.7", "correct_answers": ["d"], "rule_references": ["14:10", "16:1b"]}
+{"question_number": "14.8", "correct_answers": ["a"], "rule_references": ["6:2c", "14:1a", "Clarification 6"]}
+{"question_number": "14.9", "correct_answers": ["b"], "rule_references": ["13:1a", "14:7", "15:7"]}
+{"question_number": "14.10", "correct_answers": ["b", "c"], "rule_references": ["8:7f", "14:1a", "16:1b", "Clarification 6a"]}
+{"question_number": "14.11", "correct_answers": ["c", "d"], "rule_references": ["8:2c", "14:1a", "Clarification 6a"]}
+{"question_number": "14.12", "correct_answers": ["b", "e"], "rule_references": ["14:1c"]}
+{"question_number": "14.13", "correct_answers": ["b", "c"], "rule_references": ["2:3", "14:1b", "Clarification 6a"]}
+{"question_number": "14.14", "correct_answers": ["a"], "rule_references": ["14:3", "14:5", "14:8", "14:9"]}
+{"question_number": "14.15", "correct_answers": ["a", "c"], "rule_references": ["6:2c", "8:7f", "14:1a", "16:3a"]}
+{"question_number": "14.16", "correct_answers": ["b", "d", "e"], "rule_references": ["14:1c", "Clarification 2a"]}
+{"question_number": "14.17", "correct_answers": ["c"], "rule_references": ["6:4", "12:1", "13:2", "14:7"]}
+{"question_number": "14.18", "correct_answers": ["a"], "rule_references": ["13:2", "14:4", "15:2"]}
+{"question_number": "14.19", "correct_answers": ["a", "b"], "rule_references": ["8:5", "13:1b", "Clarification 6"]}
+{"question_number": "14.20", "correct_answers": ["a"], "rule_references": ["8:2", "8:3", "Clarification 6c", "New Guideline"]}
+{"question_number": "14.21", "correct_answers": ["b", "c", "d"], "rule_references": ["2:8", "8:4e", "14:1", "Clarification 6c", "New Guideline"]}
+{"question_number": "14.22", "correct_answers": ["e", "f"], "rule_references": ["8:8f", "14:1", "Clarification 6c", "New Guideline"]}
+{"question_number": "14.23", "correct_answers": ["b", "d", "f"], "rule_references": ["2:8", "8:4b", "14:1", "Clarification 6c", "New Guideline"]}
+{"question_number": "15.1", "correct_answers": ["a"], "rule_references": ["12:2", "15:2"]}
+{"question_number": "15.2", "correct_answers": ["c"], "rule_references": ["5:2", "12:2", "15:5b"]}
+{"question_number": "15.3", "correct_answers": ["b", "d"], "rule_references": ["13:1a", "13:7", "15:7"]}
+{"question_number": "15.4", "correct_answers": ["c", "d"], "rule_references": ["8:8f", "12:1", "12:2", "15:5", "15:9"]}
+{"question_number": "15.5", "correct_answers": ["b"], "rule_references": ["15:2"]}
+{"question_number": "15.6", "correct_answers": ["b"], "rule_references": ["12:1", "12:2", "15:2"]}
+{"question_number": "15.7", "correct_answers": ["b"], "rule_references": ["9:1", "15:2"]}
+{"question_number": "15.8", "correct_answers": ["c"], "rule_references": ["7:9", "13:1a", "15:2"]}
+{"question_number": "15.9", "correct_answers": ["a"], "rule_references": ["15:2"]}
+{"question_number": "15.10", "correct_answers": ["a"], "rule_references": ["15:5b", "15:9", "16:1a", "16:3b"]}
+{"question_number": "15.11", "correct_answers": ["a"], "rule_references": ["13:7", "15:5b", "15:7"]}
+{"question_number": "15.12", "correct_answers": ["c"], "rule_references": ["15:2"]}
+{"question_number": "15.13", "correct_answers": ["c"], "rule_references": ["8:7c", "15:4", "15:9", "16:3d", "16:5", "16:6d"]}
+{"question_number": "15.14", "correct_answers": ["d"], "rule_references": ["13:7", "15:7"]}
+{"question_number": "15.15", "correct_answers": ["a", "b"], "rule_references": ["13:3", "15:1", "15:7"]}
+{"question_number": "15.16", "correct_answers": ["c"], "rule_references": ["12:2", "13:1a", "15:2"]}
+{"question_number": "15.17", "correct_answers": ["a"], "rule_references": ["15:1", "15:2"]}
+{"question_number": "15.18", "correct_answers": ["d"], "rule_references": ["6:4", "12:1", "12:2", "15:2"]}
+{"question_number": "15.19", "correct_answers": ["c"], "rule_references": ["15:2", "15:7"]}
+{"question_number": "15.20", "correct_answers": ["e"], "rule_references": ["2:3", "2:4", "15:5a"]}
+{"question_number": "15.21", "correct_answers": ["b", "c"], "rule_references": ["13:7", "15:1", "15:5", "15:6", "15:7, 2nd paragraph"]}
+{"question_number": "15.22", "correct_answers": ["a"], "rule_references": ["12:2", "15:2"]}
+{"question_number": "15.23", "correct_answers": ["a"], "rule_references": ["15:2", "15:7", "15:8"]}
+{"question_number": "15.24", "correct_answers": ["c"], "rule_references": ["15:5b", "15:7"]}
+{"question_number": "15.25", "correct_answers": ["a"], "rule_references": ["13:2", "15:7, 2nd Paragraph"]}
+{"question_number": "15.26", "correct_answers": ["b"], "rule_references": ["15:1, note"]}
+{"question_number": "16.1", "correct_answers": ["c"], "rule_references": ["16:9"]}
+{"question_number": "16.2", "correct_answers": ["c"], "rule_references": ["8:10a", "16:6b", "16:9c"]}
+{"question_number": "16.3", "correct_answers": ["b"], "rule_references": ["16:1 comment"]}
+{"question_number": "16.4", "correct_answers": ["c"], "rule_references": ["16:5"]}
+{"question_number": "16.5", "correct_answers": ["a"], "rule_references": ["16:4"]}
+{"question_number": "16.6", "correct_answers": ["a", "b"], "rule_references": ["4:5", "8:10a", "16:3a", "16:6B", "16:6d", "16:9b"]}
+{"question_number": "16.7", "correct_answers": ["a", "d"], "rule_references": ["8:10a", "16:6b 16:9c"]}
+{"question_number": "16.8", "correct_answers": ["d", "e"], "rule_references": ["8:10a", "16:6b", "16:9c"]}
+{"question_number": "16.9", "correct_answers": ["a", "b", "d"], "rule_references": ["4:2", "8:9", "16:1b", "16:6b", "16:9c"]}
+{"question_number": "16.10", "correct_answers": ["c"], "rule_references": ["16:11b"]}
+{"question_number": "16.11", "correct_answers": ["a"], "rule_references": ["8:6", "16:6a", "16:10", "17:10"]}
+{"question_number": "16.12", "correct_answers": ["c", "d"], "rule_references": ["8:10a", "16:6b", "16:10", "17:10"]}
+{"question_number": "16.13", "correct_answers": ["b"], "rule_references": ["8:9", "16:10", "16:6b"]}
+{"question_number": "16.14", "correct_answers": ["c"], "rule_references": ["16:11c"]}
+{"question_number": "16.15", "correct_answers": ["a", "b"], "rule_references": ["8:10a", "16:6", "16:10"]}
+{"question_number": "16.16", "correct_answers": ["b"], "rule_references": ["16:9b"]}
+{"question_number": "16.17", "correct_answers": ["b", "d"], "rule_references": ["16:3d", "16:5", "16:10"]}
+{"question_number": "16.18", "correct_answers": ["c", "e", "f"], "rule_references": ["4:11", "16:3e", "16:3 comment", "Clarification 8c"]}
+{"question_number": "16.19", "correct_answers": ["e"], "rule_references": ["8:10a", "16:9d"]}
+{"question_number": "16.20", "correct_answers": ["b"], "rule_references": ["8:7a", "16:3d", "16:9a"]}
+{"question_number": "16.21", "correct_answers": ["a", "b", "c", "d", "e"], "rule_references": ["16:9"]}
+{"question_number": "16.22", "correct_answers": ["b", "e"], "rule_references": ["8:10a", "16:3a", "16:6d", "16:9d"]}
+{"question_number": "16.23", "correct_answers": ["d"], "rule_references": ["16:6c"]}
+{"question_number": "17.1", "correct_answers": ["c", "d"], "rule_references": ["2:8d", "17:7"]}
+{"question_number": "17.2", "correct_answers": ["f"], "rule_references": ["2:3", "17:9"]}
+{"question_number": "17.3", "correct_answers": ["b", "d"], "rule_references": ["17:6"]}
+{"question_number": "17.4", "correct_answers": ["b"], "rule_references": ["17:9"]}
+{"question_number": "17.5", "correct_answers": ["e"], "rule_references": ["8:5", "8:10a-d", "16:6", "17:10"]}
+{"question_number": "17.6", "correct_answers": ["c"], "rule_references": ["4:2", "17:11"]}
+{"question_number": "17.7", "correct_answers": ["d"], "rule_references": ["17:9"]}
+{"question_number": "17.8", "correct_answers": ["d"], "rule_references": ["17:1"]}
+{"question_number": "17.9", "correct_answers": ["c", "d"], "rule_references": ["17:7"]}
+{"question_number": "18.1", "correct_answers": ["b", "d", "e"], "rule_references": ["18:1", "18:2"]}
+{"question_number": "18.2", "correct_answers": ["c", "e"], "rule_references": ["Clarification 7"]}
+{"question_number": "18.3", "correct_answers": ["c", "e"], "rule_references": ["18:1", "Clarification 7Ba"]}
+{"question_number": "18.4", "correct_answers": ["b", "d"], "rule_references": ["8:10a", "13:6", "16:6b", "Clarification 7.B.b", "Substitution Area Regulations 5"]}
+{"question_number": "18.5", "correct_answers": ["a", "d"], "rule_references": ["13:4a", "Clarification 7.B.a"]}
+{"question_number": "18.6", "correct_answers": ["b", "d"], "rule_references": ["Clarification 7B", "Substitution Area Regulations 5"]}
+{"question_number": "18.7", "correct_answers": ["b"], "rule_references": ["Clarification 7.Ba"]}
+{"question_number": "18.8", "correct_answers": ["a"], "rule_references": ["Clarification 7.Bb"]}
+{"question_number": "SAR1", "correct_answers": ["d"], "rule_references": ["Substitution Area Regulations 1"]}
+{"question_number": "SAR2", "correct_answers": ["b", "e"], "rule_references": ["8:7a", "16:3e", "Substitution Area Regulations 5+6"]}
